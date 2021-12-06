@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.Card__content {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #ccc;
+	padding: 2rem;
+}
